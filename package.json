@@ -1,0 +1,35 @@
+{
+  "name": "cordova-plugin-notification-settings",
+  "version": "1.0.0",
+  "description": "Launch the notification settings for the app on Android 5.0+, or app settings on 4.4.",
+  "cordova": {
+    "id": "net.flashpointcs.cordova.notificationsettings",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fpcsjames/cordova-plugin-notification-settings.git"
+  },
+  "keywords": [
+    "android",
+    "notification",
+    "notifications",
+    "settings",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.7.1"
+    }
+  ],
+  "author": "James M. Joyce, Flashpoint Computer Services, LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fpcsjames/cordova-plugin-notification-settings/issues"
+  },
+  "homepage": "https://github.com/fpcsjames/cordova-plugin-notification-settings"
+}
